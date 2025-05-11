@@ -1,35 +1,15 @@
-Key Features and Functionalities
+Key Features to Include:
 
-### 1. 🧾 User Authentication
-- Sign up
-- Login
-- Password management
-- Session handling
+User Authentication: Sign up, login, password management, session handling.
 
-### 2. 🏠 Property Management
-- List property
-- Update/Delete listing
-- Upload images
+Property Management: List property, update/delete listing, upload images.
 
-### 3. 📅 Booking System
-- Book property
-- View booking history
-- Cancel booking
+Booking System: Book property, view booking history, cancel booking.
 
-### 4. 💳 Payment Integration
-- Payment processing
-- Generate invoices
-- Handle refunds
+Payment Integration: Payment processing, invoices, refund handling.
 
-### 5. 👥 User Roles
-- Guest functionality
-- Host functionality
+User Roles: Guest and Host functionality.
 
-### 6. ⭐ Reviews & Ratings
-- Leave reviews after a stay
-- View property and host ratings
+Reviews & Ratings: Leave reviews after a stay.
 
-### 7. 🔍 Search & Filters
-- Search by location, date, price, etc.
-- Filter results based on criteria
-
+Search & Filters: Search properties based on location, date, price, etc.
