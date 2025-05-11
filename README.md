@@ -1,4 +1,4 @@
-## 🔑 Key Features and Functionalities
+Key Features and Functionalities
 
 ### 1. 🧾 User Authentication
 - Sign up
