@@ -30,4 +30,6 @@
 - View property and host ratings
 
 ### 7. 🔍 Search & Filters
-- S
+- Search by location, date, price, etc.
+- Filter results based on criteria
+
