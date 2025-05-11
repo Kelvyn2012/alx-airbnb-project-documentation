@@ -1,4 +1,4 @@
-Key Features to Include
+Key Features to Include.
 
 User Authentication: Sign up, login, password management, session handling.
 
